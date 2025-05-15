@@ -1,0 +1,1344 @@
+2025-05-05 11:31:22,662 INFO  DEV.bv [BV ] | Note accepted: valueCents=2000; currency=USD
+2025-05-05 11:31:25,319 INFO  APP    [Plt] | Showing GAME: gameId=4274434; gameName=BigAndBad; denom=5; payout=94; math=wicked_mad_hot_v0_fd_5x25_
+2025-05-05 11:31:25,397 INFO  APP    [Plt] | No MustGo settings found for gameId 4274434
+2025-05-05 11:31:25,850 INFO  STAGE  [UI ] | Flash version: 2097152
+2025-05-05 11:31:26,522 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:26,522 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:29,779 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:29,779 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:32,116 INFO  APP    [Plt] | Showing MENU
+2025-05-05 11:31:32,622 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:32,622 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:33,838 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:33,838 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:35,541 INFO  APP    [Plt] | Showing GAME: gameId=4274435; gameName=BigAndBad; denom=10; payout=94; math=wicked_mad_hot_v0_fd_5x25_
+2025-05-05 11:31:35,606 INFO  APP    [Plt] | No MustGo settings found for gameId 4274435
+2025-05-05 11:31:36,124 INFO  STAGE  [UI ] | Flash version: 2097152
+2025-05-05 11:31:36,677 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:36,677 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:39,658 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:39,658 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:40,779 INFO  APP    [Plt] | Showing MENU
+2025-05-05 11:31:41,337 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:41,337 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:42,515 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:42,515 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:44,788 INFO  APP    [Plt] | Showing GAME: gameId=4274435; gameName=BigAndBad; denom=10; payout=94; math=wicked_mad_hot_v0_fd_5x25_
+2025-05-05 11:31:44,855 INFO  APP    [Plt] | No MustGo settings found for gameId 4274435
+2025-05-05 11:31:44,876 INFO  STAGE  [UI ] | Flash version: 2097152
+2025-05-05 11:31:45,417 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:45,417 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:48,397 INFO  APP    [Plt] | Showing hard tilt: msg=
+2025-05-05 11:31:48,397 INFO  APP    [Plt] | Showing soft tilt: msg=POWER RESET:DOOR CLOSURE
+2025-05-05 11:31:55,971 INFO  APP.gf [Plt] | --Beginning game: title=BigAndBad; mathmodel=wicked_mad_hot_v0_fd_5x25_; denom=10; wagerCents=500
+2025-05-05 11:31:56,001 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-05 11:31:56,011 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=25378; serverSessionId=18063806; winVariant=0; winBaseCents=0; gameSet=wicked_mad_hot_v0:25L_10D_2BPL (853); subset=3; outcomeIdx=18063806; siteNumber=1626
+2025-05-05 11:31:56,014 INFO  APP.gf [Plt] | Game script selected.  scriptId=29912; scriptReorderSeed=1026766140; scriptLength=1; scriptJackpotTier=0
+2025-05-05 11:31:56,025 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=500; totalCoinIn=6457325; maxBet=False; gameSessionId=25378
+2025-05-05 11:31:58,103 INFO  APP    [Plt] | End of game: amtwon=0; mpWon=0; reels=18 42 32 36 17; #lines=25; bet_per_line=2; denom=10; scene=slots,slots,slots
+2025-05-05 11:31:58,134 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=500; amountWon=0; gameSessionId=25378; egmGameID=0x413903
+2025-05-05 11:31:58,135 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=1500; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-05 11:31:58,152 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-05 11:31:58,327 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-05 11:31:58,354 INFO  APP    [Plt] | Showing soft tilt: msg=
+2025-05-05 11:31:59,176 INFO  APP.gf [Plt] | --Beginning game: title=BigAndBad; mathmodel=wicked_mad_hot_v0_fd_5x25_; denom=10; wagerCents=500
+2025-05-05 11:31:59,190 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-05 11:31:59,201 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=25379; serverSessionId=18063807; winVariant=500450; winBaseCents=9000; gameSet=wicked_mad_hot_v0:25L_10D_2BPL (853); subset=3; outcomeIdx=18063807; siteNumber=1626
+2025-05-05 11:31:59,202 INFO  APP.gf [Plt] | Game script selected.  scriptId=38401; scriptReorderSeed=-1378574167; scriptLength=26; scriptJackpotTier=0
+2025-05-05 11:31:59,204 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=500; totalCoinIn=6457825; maxBet=False; gameSessionId=25379
+2025-05-05 11:32:03,462 INFO  APP    [Plt] | End of game: amtwon=1000; mpWon=0; reels=34 5 21 1 4; #lines=25; bet_per_line=2; denom=10; scene=slots,slots,freeSpin
+2025-05-05 11:32:09,737 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=1; freespins_left=9; reels=15 14 28 7 25; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:11,200 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=2; freespins_left=8; reels=7 32 7 31 23; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:14,354 INFO  APP    [Plt] | End of freespin: amtwon=400; game_subindex=3; freespins_left=7; reels=16 33 9 43 33; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:20,127 INFO  APP    [Plt] | End of freespin: amtwon=1000; game_subindex=4; freespins_left=11; reels=14 32 11 8 30; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:26,857 INFO  APP    [Plt] | End of freespin: amtwon=1000; game_subindex=5; freespins_left=15; reels=12 33 22 6 23; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:33,620 INFO  APP    [Plt] | End of freespin: amtwon=800; game_subindex=6; freespins_left=14; reels=9 2 30 26 19; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:37,990 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=7; freespins_left=13; reels=21 1 9 15 37; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:39,655 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=8; freespins_left=12; reels=1 21 17 17 17; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:42,791 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=9; freespins_left=11; reels=3 32 37 33 13; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:45,960 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=10; freespins_left=10; reels=21 33 34 28 32; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:47,455 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=11; freespins_left=9; reels=29 0 35 9 39; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:50,633 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=12; freespins_left=8; reels=35 13 34 37 44; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:51,998 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=13; freespins_left=7; reels=25 25 2 41 34; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:55,194 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=14; freespins_left=6; reels=44 32 43 38 9; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:32:58,358 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=15; freespins_left=5; reels=30 35 3 33 2; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:01,553 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=16; freespins_left=4; reels=39 16 12 35 3; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:04,702 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=17; freespins_left=3; reels=19 4 31 15 29; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:07,864 INFO  APP    [Plt] | End of freespin: amtwon=1000; game_subindex=18; freespins_left=7; reels=36 20 15 7 8; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:12,958 INFO  APP    [Plt] | End of freespin: amtwon=400; game_subindex=19; freespins_left=6; reels=24 12 24 26 39; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:17,622 INFO  APP    [Plt] | End of freespin: amtwon=320; game_subindex=20; freespins_left=5; reels=40 18 8 7 12; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:22,822 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=21; freespins_left=4; reels=26 23 8 30 43; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:26,003 INFO  APP    [Plt] | End of freespin: amtwon=1280; game_subindex=22; freespins_left=3; reels=11 10 32 19 27; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:37,300 INFO  APP    [Plt] | End of freespin: amtwon=200; game_subindex=23; freespins_left=2; reels=5 32 18 6 16; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:41,688 INFO  APP    [Plt] | End of freespin: amtwon=1600; game_subindex=24; freespins_left=1; reels=31 10 27 20 42; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:50,804 INFO  APP    [Plt] | End of freespin: amtwon=0; game_subindex=25; freespins_left=0; reels=5 16 42 7 21; #lines=25; bet_per_line=2; denom=10; bingo_card=; bingo_draw=; win_pattern=
+2025-05-05 11:33:53,755 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=500; amountWon=9000; gameSessionId=25379; egmGameID=0x413903
+2025-05-05 11:33:53,759 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=10000; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-05 11:33:53,771 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-05 11:33:53,834 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-05 11:34:01,741 INFO  APP.gf [Plt] | --Beginning game: title=BigAndBad; mathmodel=wicked_mad_hot_v0_fd_5x25_; denom=10; wagerCents=500
+2025-05-05 11:34:01,759 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-05 11:34:01,769 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=25380; serverSessionId=18063808; winVariant=0; winBaseCents=0; gameSet=wicked_mad_hot_v0:25L_10D_2BPL (853); subset=3; outcomeIdx=18063808; siteNumber=1626
+2025-05-05 11:34:01,770 INFO  APP.gf [Plt] | Game script selected.  scriptId=33660; scriptReorderSeed=1810581037; scriptLength=1; scriptJackpotTier=0
+2025-05-05 11:34:01,770 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=500; totalCoinIn=6458325; maxBet=False; gameSessionId=25380
+2025-05-05 11:34:03,795 INFO  APP    [Plt] | End of game: amtwon=0; mpWon=0; reels=19 15 27 3 17; #lines=25; bet_per_line=2; denom=10; scene=slots,slots,slots
+2025-05-05 11:34:03,797 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=500; amountWon=0; gameSessionId=25380; egmGameID=0x413903
+2025-05-05 11:34:03,799 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=9500; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-05 11:34:03,817 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-05 11:34:03,826 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+
+2025-05-13 03:47:59,381 INFO  DEV.bv [BV ] | Ticket inserted: validation#=004603654860678651
+2025-05-13 03:48:03,050 INFO  UI     [26 ] | Call to Flash (mainscreen): TEST_SCRIPT_COMMUNICATION
+2025-05-13 03:48:03,052 INFO  UI     [UI ] | Call from Flash: FLASH_IS_ALIVE
+2025-05-13 03:48:03,202 INFO  DEV.bv [BV ] | Ticket accepted: validation#=16930; value=16930; code=TICKET_STATUS_CASHABLE_REDEEMED; crType=CREDIT_TYPE_CASHABLE
+2025-05-13 03:48:03,243 INFO  UI     [BV ] | Call to Flash (mainscreen): ADJUST_CREDITS
+2025-05-13 03:48:03,243 INFO  UI     [BV ] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 03:48:03,243 INFO  UI     [BV ] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 03:48:03,244 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 03:48:03,245 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 129
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | 1
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | 0
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | 0
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | 0
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | 0
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | 0
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | 0
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | 1
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | -- END
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: True(iPortNum: 21, iPortBit: 0)
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: True(iPortNum: 20, iPortBit: 0)
+2025-05-13 03:48:03,278 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 7
+2025-05-13 04:06:56,142 INFO  DEV.bv [BV ] | Note inserted
+2025-05-13 04:06:58,893 INFO  DEV.bv [BV ] | Note accepted: valueCents=2000; currency=USD
+2025-05-13 04:06:58,908 INFO  UI     [BV ] | Call to Flash (mainscreen): ADJUST_CREDITS
+2025-05-13 04:06:58,908 INFO  UI     [BV ] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:06:58,908 INFO  UI     [BV ] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:06:58,924 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:06:58,955 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 129
+2025-05-13 04:08:19,450 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=36295; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-13 04:08:19,463 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-13 04:08:19,473 INFO  UI     [Plt] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:08:19,473 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-13 04:08:19,473 INFO  UI     [Plt] | Call to Flash (mainscreen): SetEndOfGameMeters
+2025-05-13 04:08:19,473 INFO  UI     [Plt] | Call to Flash (topscreen): GAME_SEQUENCE_ENDED
+2025-05-13 04:08:19,497 DEBUG DEV.io [Plt] | Hardware output set: pin=2; logicalSwitch=LAMPS_CANDLE_BOTTOM; value=False
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:19,498 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:19,499 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 129
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: True(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: True(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 7
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: True(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: True(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:19,558 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:22,495 INFO  UI     [UI ] | Call from Flash: ALLANIMATIONSDONE
+2025-05-13 04:08:22,495 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:33,943 DEBUG DEV.io [15 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:8 
+2025-05-13 04:08:33,943 DEBUG DEV.io [15 ] | Button BUTTONS_GAMBLE pressed.
+2025-05-13 04:08:33,958 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:33,964 INFO  UI     [UI ] | Call from Flash: FLAG_IN_PLAY
+2025-05-13 04:08:33,964 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:33,965 INFO  UI     [UI ] | Call from Flash: IS_GAMESTART_OK
+2025-05-13 04:08:33,965 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:33,965 INFO  UI     [UI ] | Call from Flash: RESET_ROUTINE
+2025-05-13 04:08:33,969 INFO  UI     [UI ] | Call from Flash: GAME_START
+2025-05-13 04:08:33,969 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:33,970 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:33,970 INFO  APP.gf [Plt] | --Beginning game: title=WildHot; mathmodel=volcano_meltdown_v0_fd_5x25_; denom=5; wagerCents=250
+2025-05-13 04:08:33,970 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_PRE_SPIN
+2025-05-13 04:08:33,985 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-13 04:08:33,992 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=False
+2025-05-13 04:08:33,992 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=False
+2025-05-13 04:08:33,992 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=False
+2025-05-13 04:08:33,992 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=False
+2025-05-13 04:08:33,993 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=False
+2025-05-13 04:08:33,994 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=44541; serverSessionId=113585223; winVariant=0; winBaseCents=0; gameSet=volcano_meltdown_v0:25L_5D_2BPL (940); subset=27; outcomeIdx=113585223; siteNumber=1620
+2025-05-13 04:08:33,994 INFO  APP.gf [Plt] | Game script selected.  scriptId=33786; scriptReorderSeed=-18346744; scriptLength=1; scriptJackpotTier=0
+2025-05-13 04:08:33,995 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=250; totalCoinIn=6621665; maxBet=False; gameSessionId=44541
+2025-05-13 04:08:34,015 INFO  UI     [Plt] | Call to Flash (mainscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:34,016 INFO  UI     [Plt] | Call to Flash (topscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:34,016 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_SPIN
+2025-05-13 04:08:34,016 INFO  UI     [Plt] | Call to Flash (mainscreen): PrepareForBonusGame
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: False(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: False(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 4
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:34,020 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: False(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: False(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:34,021 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=False
+2025-05-13 04:08:34,375 DEBUG DEV.io [17 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:9 
+2025-05-13 04:08:36,030 INFO  UI     [UI ] | Call from Flash: ALLREELSSTOPPED
+2025-05-13 04:08:36,030 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:36,031 INFO  UI     [UI ] | Call from Flash: RESULTSDISPLAYCOMPLETE
+2025-05-13 04:08:36,031 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:36,031 INFO  APP    [Plt] | End of game: amtwon=0; mpWon=0; reels=5 10 33 24 33; #lines=25; bet_per_line=2; denom=5; scene=slots,slots,slots
+2025-05-13 04:08:36,039 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=250; amountWon=0; gameSessionId=44541; egmGameID=0x3F3902
+2025-05-13 04:08:36,155 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=36045; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-13 04:08:36,168 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-13 04:08:36,177 INFO  UI     [Plt] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:08:36,177 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-13 04:08:36,746 INFO  APP.gf [Plt] | --Beginning game: title=WildHot; mathmodel=volcano_meltdown_v0_fd_5x25_; denom=5; wagerCents=250
+2025-05-13 04:08:36,746 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_PRE_SPIN
+2025-05-13 04:08:36,762 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=False
+2025-05-13 04:08:36,770 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=False
+2025-05-13 04:08:36,773 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=44542; serverSessionId=113585224; winVariant=5; winBaseCents=50; gameSet=volcano_meltdown_v0:25L_5D_2BPL (940); subset=27; outcomeIdx=113585224; siteNumber=1620
+2025-05-13 04:08:36,774 INFO  APP.gf [Plt] | Game script selected.  scriptId=28907; scriptReorderSeed=516383234; scriptLength=1; scriptJackpotTier=0
+2025-05-13 04:08:36,774 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=250; totalCoinIn=6621915; maxBet=False; gameSessionId=44542
+2025-05-13 04:08:36,788 INFO  UI     [Plt] | Call to Flash (mainscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:36,788 INFO  UI     [Plt] | Call to Flash (topscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:36,788 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_SPIN
+2025-05-13 04:08:36,788 INFO  UI     [Plt] | Call to Flash (mainscreen): PrepareForBonusGame
+2025-05-13 04:08:36,799 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 0
+2025-05-13 04:08:36,799 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:36,799 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,799 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,799 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,799 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,799 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,799 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: False(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: False(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 4
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: False(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: False(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:36,800 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=False
+2025-05-13 04:08:37,015 DEBUG DEV.io [17 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:9 
+2025-05-13 04:08:38,822 INFO  UI     [UI ] | Call from Flash: ALLREELSSTOPPED
+2025-05-13 04:08:38,822 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:38,823 INFO  UI     [UI ] | Call from Flash: RESULTSDISPLAYCOMPLETE
+2025-05-13 04:08:38,823 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:38,823 INFO  APP    [Plt] | End of game: amtwon=50; mpWon=0; reels=18 27 1 27 17; #lines=25; bet_per_line=2; denom=5; scene=slots,slots,slots
+2025-05-13 04:08:38,824 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=250; amountWon=50; gameSessionId=44542; egmGameID=0x3F3902
+2025-05-13 04:08:38,825 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=35845; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-13 04:08:38,837 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-13 04:08:38,846 INFO  UI     [Plt] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:08:38,846 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-13 04:08:38,846 INFO  UI     [Plt] | Call to Flash (mainscreen): SetEndOfGameMeters
+2025-05-13 04:08:38,846 INFO  UI     [Plt] | Call to Flash (topscreen): GAME_SEQUENCE_ENDED
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=2; logicalSwitch=LAMPS_CANDLE_BOTTOM; value=False
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:38,870 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:38,871 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 129
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: True(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: True(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 7
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: True(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: True(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:38,899 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:40,972 DEBUG DEV.io [17 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:8 
+2025-05-13 04:08:40,972 DEBUG DEV.io [17 ] | Button BUTTONS_GAMBLE pressed.
+2025-05-13 04:08:41,002 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:41,007 INFO  UI     [UI ] | Call from Flash: FLAG_IN_PLAY
+2025-05-13 04:08:41,007 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:41,007 INFO  UI     [UI ] | Call from Flash: IS_GAMESTART_OK
+2025-05-13 04:08:41,008 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:41,008 INFO  UI     [UI ] | Call from Flash: RESET_ROUTINE
+2025-05-13 04:08:41,012 INFO  UI     [UI ] | Call from Flash: ALLANIMATIONSDONE
+2025-05-13 04:08:41,012 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:41,017 INFO  UI     [UI ] | Call from Flash: GAME_START
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:41,017 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:41,018 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:41,018 INFO  APP.gf [Plt] | --Beginning game: title=WildHot; mathmodel=volcano_meltdown_v0_fd_5x25_; denom=5; wagerCents=250
+2025-05-13 04:08:41,018 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_PRE_SPIN
+2025-05-13 04:08:41,036 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-13 04:08:41,043 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=False
+2025-05-13 04:08:41,043 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=False
+2025-05-13 04:08:41,044 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=False
+2025-05-13 04:08:41,044 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=44543; serverSessionId=113585225; winVariant=0; winBaseCents=0; gameSet=volcano_meltdown_v0:25L_5D_2BPL (940); subset=27; outcomeIdx=113585225; siteNumber=1620
+2025-05-13 04:08:41,044 INFO  APP.gf [Plt] | Game script selected.  scriptId=33243; scriptReorderSeed=-1531670368; scriptLength=1; scriptJackpotTier=0
+2025-05-13 04:08:41,045 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=250; totalCoinIn=6622165; maxBet=False; gameSessionId=44543
+2025-05-13 04:08:41,061 INFO  UI     [Plt] | Call to Flash (mainscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:41,061 INFO  UI     [Plt] | Call to Flash (topscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:41,061 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_SPIN
+2025-05-13 04:08:41,061 INFO  UI     [Plt] | Call to Flash (mainscreen): PrepareForBonusGame
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: False(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: False(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 4
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: False(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: False(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:41,063 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=False
+2025-05-13 04:08:41,325 DEBUG DEV.io [15 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:9 
+2025-05-13 04:08:43,104 INFO  UI     [UI ] | Call from Flash: ALLREELSSTOPPED
+2025-05-13 04:08:43,104 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:43,106 INFO  UI     [UI ] | Call from Flash: RESULTSDISPLAYCOMPLETE
+2025-05-13 04:08:43,106 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:43,106 INFO  APP    [Plt] | End of game: amtwon=0; mpWon=0; reels=38 23 18 28 33; #lines=25; bet_per_line=2; denom=5; scene=slots,slots,slots
+2025-05-13 04:08:43,107 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=250; amountWon=0; gameSessionId=44543; egmGameID=0x3F3902
+2025-05-13 04:08:43,111 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=35595; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-13 04:08:43,130 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-13 04:08:43,138 INFO  UI     [Plt] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:08:43,139 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-13 04:08:43,139 INFO  UI     [Plt] | Call to Flash (mainscreen): SetEndOfGameMeters
+2025-05-13 04:08:43,139 INFO  UI     [Plt] | Call to Flash (topscreen): GAME_SEQUENCE_ENDED
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=2; logicalSwitch=LAMPS_CANDLE_BOTTOM; value=False
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:43,159 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:43,160 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:43,160 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:43,161 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 129
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: True(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: True(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:43,164 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 7
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: True(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: True(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:43,165 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:43,953 DEBUG DEV.io [15 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:8 
+2025-05-13 04:08:43,953 DEBUG DEV.io [15 ] | Button BUTTONS_GAMBLE pressed.
+2025-05-13 04:08:43,969 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:43,975 INFO  UI     [UI ] | Call from Flash: FLAG_IN_PLAY
+2025-05-13 04:08:43,975 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:43,975 INFO  UI     [UI ] | Call from Flash: IS_GAMESTART_OK
+2025-05-13 04:08:43,975 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:43,975 INFO  UI     [UI ] | Call from Flash: RESET_ROUTINE
+2025-05-13 04:08:43,976 INFO  UI     [UI ] | Call from Flash: GAME_START
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:43,976 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:43,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:43,977 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:43,977 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:43,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:43,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:43,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:43,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:43,977 INFO  APP.gf [Plt] | --Beginning game: title=WildHot; mathmodel=volcano_meltdown_v0_fd_5x25_; denom=5; wagerCents=250
+2025-05-13 04:08:43,977 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_PRE_SPIN
+2025-05-13 04:08:43,989 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-13 04:08:43,995 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=False
+2025-05-13 04:08:43,995 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=False
+2025-05-13 04:08:43,995 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=False
+2025-05-13 04:08:43,995 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:43,995 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=False
+2025-05-13 04:08:43,996 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=False
+2025-05-13 04:08:43,998 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=44544; serverSessionId=113585226; winVariant=0; winBaseCents=0; gameSet=volcano_meltdown_v0:25L_5D_2BPL (940); subset=27; outcomeIdx=113585226; siteNumber=1620
+2025-05-13 04:08:43,998 INFO  APP.gf [Plt] | Game script selected.  scriptId=30254; scriptReorderSeed=757290717; scriptLength=1; scriptJackpotTier=0
+2025-05-13 04:08:43,999 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=250; totalCoinIn=6622415; maxBet=False; gameSessionId=44544
+2025-05-13 04:08:44,012 INFO  UI     [Plt] | Call to Flash (mainscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:44,012 INFO  UI     [Plt] | Call to Flash (topscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:44,012 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_SPIN
+2025-05-13 04:08:44,013 INFO  UI     [Plt] | Call to Flash (mainscreen): PrepareForBonusGame
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: False(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: False(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 4
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: False(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: False(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:44,030 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=False
+2025-05-13 04:08:44,356 DEBUG DEV.io [17 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:9 
+2025-05-13 04:08:46,027 INFO  UI     [UI ] | Call from Flash: ALLREELSSTOPPED
+2025-05-13 04:08:46,027 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:46,028 INFO  UI     [UI ] | Call from Flash: RESULTSDISPLAYCOMPLETE
+2025-05-13 04:08:46,028 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:46,028 INFO  APP    [Plt] | End of game: amtwon=0; mpWon=0; reels=35 18 2 26 2; #lines=25; bet_per_line=2; denom=5; scene=slots,slots,slots
+2025-05-13 04:08:46,038 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=250; amountWon=0; gameSessionId=44544; egmGameID=0x3F3902
+2025-05-13 04:08:46,042 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=35345; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-13 04:08:46,057 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-13 04:08:46,067 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-13 04:08:46,067 INFO  UI     [Plt] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:08:46,068 INFO  UI     [Plt] | Call to Flash (mainscreen): SetEndOfGameMeters
+2025-05-13 04:08:46,068 INFO  UI     [Plt] | Call to Flash (topscreen): GAME_SEQUENCE_ENDED
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=2; logicalSwitch=LAMPS_CANDLE_BOTTOM; value=False
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:46,091 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:46,092 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:46,093 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 129
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:46,133 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: True(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: True(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 7
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: True(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: True(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:46,134 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:46,629 DEBUG DEV.io [15 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:8 
+2025-05-13 04:08:46,629 DEBUG DEV.io [15 ] | Button BUTTONS_GAMBLE pressed.
+2025-05-13 04:08:46,691 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:46,696 INFO  UI     [UI ] | Call from Flash: FLAG_IN_PLAY
+2025-05-13 04:08:46,697 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:46,697 INFO  UI     [UI ] | Call from Flash: IS_GAMESTART_OK
+2025-05-13 04:08:46,697 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:46,698 INFO  UI     [UI ] | Call from Flash: RESET_ROUTINE
+2025-05-13 04:08:46,703 INFO  UI     [UI ] | Call from Flash: GAME_START
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:46,703 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:46,704 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:46,704 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:46,704 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:46,704 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:46,704 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:46,704 INFO  APP.gf [Plt] | --Beginning game: title=WildHot; mathmodel=volcano_meltdown_v0_fd_5x25_; denom=5; wagerCents=250
+2025-05-13 04:08:46,704 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_PRE_SPIN
+2025-05-13 04:08:46,720 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=False
+2025-05-13 04:08:46,727 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=False
+2025-05-13 04:08:46,729 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=44545; serverSessionId=113585227; winVariant=0; winBaseCents=0; gameSet=volcano_meltdown_v0:25L_5D_2BPL (940); subset=27; outcomeIdx=113585227; siteNumber=1620
+2025-05-13 04:08:46,729 INFO  APP.gf [Plt] | Game script selected.  scriptId=35245; scriptReorderSeed=-429757672; scriptLength=1; scriptJackpotTier=0
+2025-05-13 04:08:46,729 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=250; totalCoinIn=6622665; maxBet=False; gameSessionId=44545
+2025-05-13 04:08:46,744 INFO  UI     [Plt] | Call to Flash (mainscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:46,744 INFO  UI     [Plt] | Call to Flash (topscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:46,744 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_SPIN
+2025-05-13 04:08:46,745 INFO  UI     [Plt] | Call to Flash (mainscreen): PrepareForBonusGame
+2025-05-13 04:08:46,753 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 0
+2025-05-13 04:08:46,753 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:46,753 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,753 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,753 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,753 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,753 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: False(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: False(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 4
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: False(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: False(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:46,754 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=False
+2025-05-13 04:08:46,939 DEBUG DEV.io [17 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:9 
+2025-05-13 04:08:48,764 INFO  UI     [UI ] | Call from Flash: ALLREELSSTOPPED
+2025-05-13 04:08:48,764 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:48,765 INFO  UI     [UI ] | Call from Flash: RESULTSDISPLAYCOMPLETE
+2025-05-13 04:08:48,765 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:48,765 INFO  APP    [Plt] | End of game: amtwon=0; mpWon=0; reels=0 25 37 23 13; #lines=25; bet_per_line=2; denom=5; scene=slots,slots,slots
+2025-05-13 04:08:48,771 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=250; amountWon=0; gameSessionId=44545; egmGameID=0x3F3902
+2025-05-13 04:08:48,773 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=35095; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-13 04:08:48,786 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-13 04:08:48,955 INFO  UI     [Plt] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:08:48,955 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-13 04:08:48,955 INFO  UI     [Plt] | Call to Flash (mainscreen): SetEndOfGameMeters
+2025-05-13 04:08:48,955 INFO  UI     [Plt] | Call to Flash (topscreen): GAME_SEQUENCE_ENDED
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=2; logicalSwitch=LAMPS_CANDLE_BOTTOM; value=False
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:48,977 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:48,978 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:48,980 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 129
+2025-05-13 04:08:48,980 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:48,980 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:48,980 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,980 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: True(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: True(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 7
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: True(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: True(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:48,981 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:49,800 INFO  UI     [UI ] | Call from Flash: ALLANIMATIONSDONE
+2025-05-13 04:08:49,801 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:57,577 DEBUG DEV.io [15 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:8 
+2025-05-13 04:08:57,577 DEBUG DEV.io [15 ] | Button BUTTONS_GAMBLE pressed.
+2025-05-13 04:08:57,578 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:57,582 INFO  UI     [UI ] | Call from Flash: FLAG_IN_PLAY
+2025-05-13 04:08:57,582 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:57,582 INFO  UI     [UI ] | Call from Flash: IS_GAMESTART_OK
+2025-05-13 04:08:57,583 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:57,583 INFO  UI     [UI ] | Call from Flash: RESET_ROUTINE
+2025-05-13 04:08:57,588 INFO  UI     [UI ] | Call from Flash: GAME_START
+2025-05-13 04:08:57,588 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:57,588 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:57,588 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:57,589 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:57,590 INFO  APP.gf [Plt] | --Beginning game: title=WildHot; mathmodel=volcano_meltdown_v0_fd_5x25_; denom=5; wagerCents=250
+2025-05-13 04:08:57,590 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_PRE_SPIN
+2025-05-13 04:08:57,609 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=False
+2025-05-13 04:08:57,617 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=False
+2025-05-13 04:08:57,618 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=False
+2025-05-13 04:08:57,618 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=False
+2025-05-13 04:08:57,618 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=False
+2025-05-13 04:08:57,618 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=False
+2025-05-13 04:08:57,618 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=False
+2025-05-13 04:08:57,618 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=44546; serverSessionId=113585228; winVariant=0; winBaseCents=0; gameSet=volcano_meltdown_v0:25L_5D_2BPL (940); subset=27; outcomeIdx=113585228; siteNumber=1620
+2025-05-13 04:08:57,618 INFO  APP.gf [Plt] | Game script selected.  scriptId=34404; scriptReorderSeed=1020445360; scriptLength=1; scriptJackpotTier=0
+2025-05-13 04:08:57,619 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=250; totalCoinIn=6622915; maxBet=False; gameSessionId=44546
+2025-05-13 04:08:57,630 INFO  UI     [Plt] | Call to Flash (mainscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:57,630 INFO  UI     [Plt] | Call to Flash (topscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:08:57,630 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_SPIN
+2025-05-13 04:08:57,630 INFO  UI     [Plt] | Call to Flash (mainscreen): PrepareForBonusGame
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: False(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: False(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 4
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: False(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: False(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:57,639 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:57,640 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=False
+2025-05-13 04:08:57,856 DEBUG DEV.io [15 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:9 
+2025-05-13 04:08:59,667 INFO  UI     [UI ] | Call from Flash: ALLREELSSTOPPED
+2025-05-13 04:08:59,668 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:59,669 INFO  UI     [UI ] | Call from Flash: RESULTSDISPLAYCOMPLETE
+2025-05-13 04:08:59,669 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:08:59,669 INFO  APP    [Plt] | End of game: amtwon=0; mpWon=0; reels=27 20 38 34 12; #lines=25; bet_per_line=2; denom=5; scene=slots,slots,slots
+2025-05-13 04:08:59,670 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=250; amountWon=0; gameSessionId=44546; egmGameID=0x3F3902
+2025-05-13 04:08:59,673 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=34845; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-13 04:08:59,692 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-13 04:08:59,892 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
+2025-05-13 04:08:59,892 INFO  UI     [Plt] | Call to Flash (mainscreen): CheckRestrictedCredits
+2025-05-13 04:08:59,893 INFO  UI     [Plt] | Call to Flash (mainscreen): SetEndOfGameMeters
+2025-05-13 04:08:59,893 INFO  UI     [Plt] | Call to Flash (topscreen): GAME_SEQUENCE_ENDED
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=2; logicalSwitch=LAMPS_CANDLE_BOTTOM; value=False
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:59,915 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:08:59,916 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 129
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: True(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: True(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 7
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:08:59,926 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:08:59,927 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: True(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:08:59,927 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: True(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:08:59,927 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:08:59,927 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:08:59,927 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:09:00,592 DEBUG DEV.io [15 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:8 
+2025-05-13 04:09:00,592 DEBUG DEV.io [15 ] | Button BUTTONS_GAMBLE pressed.
+2025-05-13 04:09:00,607 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=True
+2025-05-13 04:09:00,612 INFO  UI     [UI ] | Call from Flash: FLAG_IN_PLAY
+2025-05-13 04:09:00,612 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:09:00,612 INFO  UI     [UI ] | Call from Flash: IS_GAMESTART_OK
+2025-05-13 04:09:00,612 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:09:00,613 INFO  UI     [UI ] | Call from Flash: RESET_ROUTINE
+2025-05-13 04:09:00,618 INFO  UI     [UI ] | Call from Flash: GAME_START
+2025-05-13 04:09:00,618 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=True
+2025-05-13 04:09:00,618 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=True
+2025-05-13 04:09:00,618 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=True
+2025-05-13 04:09:00,618 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:09:00,618 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=True
+2025-05-13 04:09:00,619 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=True
+2025-05-13 04:09:00,620 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=True
+2025-05-13 04:09:00,620 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=True
+2025-05-13 04:09:00,620 INFO  APP.gf [Plt] | --Beginning game: title=WildHot; mathmodel=volcano_meltdown_v0_fd_5x25_; denom=5; wagerCents=250
+2025-05-13 04:09:00,620 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_PRE_SPIN
+2025-05-13 04:09:00,639 INFO  APP.gf [Plt] | Waiting for finite deal outcome.
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=1; logicalSwitch=LAMPS_BUTTONS_COLLECT; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_MENU; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_RULES; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=11; logicalSwitch=LAMPS_BUTTONS_GAMBLE; value=True
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=10; logicalSwitch=LAMPS_BUTTONS_MAXBET; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY1LINE; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET1CREDIT; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY5LINES; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET5CREDITS; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY10LINES; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET10CREDITS; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY15LINES; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET15CREDITS; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_PLAY20LINES; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_BET20CREDITS; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=9; logicalSwitch=LAMPS_BUTTONS_INC_BETLEVEL; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=8; logicalSwitch=LAMPS_BUTTONS_DEC_BETLEVEL; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_LINES; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_LINES; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_INC_COMBINEDBET; value=False
+2025-05-13 04:09:00,646 DEBUG DEV.io [Plt] | Hardware output set: pin=0; logicalSwitch=LAMPS_BUTTONS_DEC_COMBINEDBET; value=False
+2025-05-13 04:09:00,648 INFO  APP.gf [Plt] | Finite deal outcome received.  gameSessionId=44547; serverSessionId=113585229; winVariant=10; winBaseCents=100; gameSet=volcano_meltdown_v0:25L_5D_2BPL (940); subset=27; outcomeIdx=113585229; siteNumber=1620
+2025-05-13 04:09:00,648 INFO  APP.gf [Plt] | Game script selected.  scriptId=27008; scriptReorderSeed=-129730824; scriptLength=1; scriptJackpotTier=0
+2025-05-13 04:09:00,648 INFO  SAS    [Plt] | sasEngine.gameStart: amountWagered=250; totalCoinIn=6623165; maxBet=False; gameSessionId=44547
+2025-05-13 04:09:00,662 INFO  UI     [Plt] | Call to Flash (mainscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:09:00,662 INFO  UI     [Plt] | Call to Flash (topscreen): SCRIPT_RESULTS_PREVIEW
+2025-05-13 04:09:00,662 INFO  UI     [Plt] | Call to Flash (mainscreen): ASYNC_SPIN
+2025-05-13 04:09:00,663 INFO  UI     [Plt] | Call to Flash (mainscreen): PrepareForBonusGame
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 0 p_iByeValue: 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 1, byte: 0, bit: 0):LAMPS_BUTTONS_SERVICE Value: False(iPortNum: 21, iPortBit: 0)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 2, byte: 0, bit: 1):LAMPS_CANDLE_BOTTOM Value: False(iPortNum: 21, iPortBit: 2)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 3, byte: 0, bit: 2):LAMPS_CANDLE_TOP Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 8, byte: 0, bit: 7):LAMPS_BUTTONS_BET1CREDIT Value: False(iPortNum: 20, iPortBit: 0)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - WriteOutputPort: 1 p_iByeValue: 4
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Lamp bits: 
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 1
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | 0
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | -- END
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 9, byte: 1, bit: 0):LAMPS_BUTTONS_BET10CREDITS Value: False(iPortNum: 20, iPortBit: 2)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 10, byte: 1, bit: 1):LAMPS_BUTTONS_BET20CREDITS Value: False(iPortNum: 20, iPortBit: 4)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 11, byte: 1, bit: 2):LAMPS_BUTTONS_GAMBLE Value: True(iPortNum: 20, iPortBit: 6)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 13, byte: 1, bit: 4):LAMPS_BUTTONS_COLLECT Value: False(iPortNum: 21, iPortBit: 1)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | EFCO - Changing pin (#: 14, byte: 1, bit: 5):LAMPS_CANDLE_MIDDLE Value: False(iPortNum: 21, iPortBit: 3)
+2025-05-13 04:09:00,670 DEBUG DEV.io [IO ] | Hardware input received: pin=11; logicalSwitch=BUTTONS_GAMBLE; value=False
+2025-05-13 04:09:01,119 DEBUG DEV.io [15 ] | EFCO - Callback : cb_type:400 cb_src:3 cb_srcbit:6 cb_data:9 
+2025-05-13 04:09:02,698 INFO  UI     [UI ] | Call from Flash: ALLREELSSTOPPED
+2025-05-13 04:09:02,698 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:09:02,698 INFO  UI     [UI ] | Call from Flash: RESULTSDISPLAYCOMPLETE
+2025-05-13 04:09:02,698 INFO  UI     [UI ] | Setting flash return variable (mainscreen).
+2025-05-13 04:09:02,698 INFO  APP    [Plt] | End of game: amtwon=100; mpWon=0; reels=4 25 2 24 3; #lines=25; bet_per_line=2; denom=5; scene=slots,slots,slots
+2025-05-13 04:09:02,699 INFO  SAS    [Plt] | sasEngine.gameEnd: amountWagered=250; amountWon=100; gameSessionId=44547; egmGameID=0x3F3902
+2025-05-13 04:09:02,805 INFO  METERS [Plt] | Meters summary: CurrentPlayableAmount=34695; CurrentRestrictedAmount=0; TotalPlayerPoints=0
+2025-05-13 04:09:02,817 INFO  DEV.pr [Plt] | Queueing print job: job=0; type=PULLTAB
+2025-05-13 04:09:02,826 INFO  DEV.pr [PRe] | Finished printing ticket: job=0; type=PULLTAB; status=SUCCESS; reprintstatus=NOREPRINT
